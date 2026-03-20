@@ -13,7 +13,7 @@ const tools = [
     },
     {
         name: 'Claude',
-        icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/claude.svg',
+        icon: 'https://cdn.simpleicons.org/claude',
     },
     {
         name: 'Selenium',

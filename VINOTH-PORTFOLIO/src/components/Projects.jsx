@@ -84,7 +84,7 @@ const projects = [
         description: 'A International BMW website, showcasing their models and features, built using HTML and CSS.',
         source: 'https://github.com/JBVinoth333/BMW',
         tags: ['HTML', 'CSS'],
-        preview: "https://vinothbaskar-026oc5s4-8443.zcodecorp.in/HTML%20PROJECTS/Project%20profile%20card/BMW%20PROJECT/home_page_001/BMW.html",
+        preview: "https://jbvinoth333.github.io/BMW/BMW_PROJECT/home_page_001/BMW.html",
         category: ['HTML & CSS'],
         image: bmwImage,
     },
